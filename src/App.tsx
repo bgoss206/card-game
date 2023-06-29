@@ -1,26 +1,24 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from "react";
+import { ReactComponent as TwoOfClubs } from "./cards/2C.svg";
+// ... import other SVG files
 
-function App() {
+interface CardImages {
+  [key: string]: React.FunctionComponent<React.SVGProps<SVGSVGElement>>;
+}
+
+const cardImages: CardImages = {
+  TwoOfClubs,
+  // ... add other card SVG components
+};
+
+function CardGallery() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="card-gallery">
+      {Object.entries(cardImages).map(([card, SvgComponent]) => (
+        <SvgComponent key={card} />
+      ))}
     </div>
   );
 }
 
-export default App;
+export default CardGallery;
