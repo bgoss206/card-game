@@ -1,15 +1,19 @@
-import React, { useEffect, useState } from "react";
-import { ReactComponent as TwoOfClubs } from "./cards/2C.svg";
-// ... import other SVG files
+import React from "react";
+import { SUITS, RANKS } from "./constants";
 
+// Define the type for the cardImages object
 interface CardImages {
   [key: string]: React.FunctionComponent<React.SVGProps<SVGSVGElement>>;
 }
 
-const cardImages: CardImages = {
-  TwoOfClubs,
-  // ... add other card SVG components
-};
+// Dynamically generate the cardImages object
+const cardImages: CardImages = {};
+for (let suit of SUITS) {
+  for (let rank of RANKS) {
+    const Card = require(`./cards/${rank}${suit}.svg`).ReactComponent;
+    cardImages[`${rank}Of${suit}`] = Card;
+  }
+}
 
 function CardGallery() {
   return (
