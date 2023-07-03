@@ -19,7 +19,7 @@ function CardGallery() {
   }
 
   return (
-    <div className="card-gallery">
+    <div className="card-gallery" style={{ backgroundColor: "lightgray" }}>
       {Object.entries(generatedCardImages).map(([card, SvgComponent]) => (
         <SvgComponent key={card} style={{ width: "100px", height: "150px" }} />
       ))}
