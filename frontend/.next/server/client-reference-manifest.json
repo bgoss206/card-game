@@ -1,0 +1,981 @@
+{
+  "ssrModuleMapping": {
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/AS.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/AS.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/KS.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/KS.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/QS.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/QS.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/JS.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/JS.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/TenS.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/TenS.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/NineS.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/NineS.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/EightS.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/EightS.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/SevenS.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/SevenS.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/SixS.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/SixS.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/FiveS.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/FiveS.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/FourS.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/FourS.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/ThreeS.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/ThreeS.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/TwoS.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/TwoS.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/AH.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/AH.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/KH.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/KH.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/QH.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/QH.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/JH.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/JH.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/TenH.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/TenH.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/NineH.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/NineH.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/EightH.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/EightH.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/SevenH.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/SevenH.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/SixH.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/SixH.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/FiveH.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/FiveH.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/FourH.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/FourH.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/ThreeH.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/ThreeH.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/TwoH.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/TwoH.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/AD.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/AD.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/KD.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/KD.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/QD.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/QD.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/JD.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/JD.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/TenD.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/TenD.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/NineD.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/NineD.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/EightD.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/EightD.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/SevenD.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/SevenD.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/SixD.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/SixD.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/FiveD.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/FiveD.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/FourD.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/FourD.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/ThreeD.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/ThreeD.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/TwoD.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/TwoD.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/AC.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/AC.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/KC.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/KC.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/QC.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/QC.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/JC.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/JC.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/TenC.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/TenC.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/NineC.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/NineC.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/EightC.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/EightC.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/SevenC.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/SevenC.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/SixC.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/SixC.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/FiveC.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/FiveC.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/FourC.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/FourC.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/ThreeC.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/ThreeC.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cards/TwoC.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/cards/TwoC.svg",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    }
+  },
+  "edgeSSRModuleMapping": {},
+  "clientModules": {
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/node_modules/next/dist/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/node_modules/next/dist/esm/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/node_modules/next/dist/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/node_modules/next/dist/esm/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/node_modules/next/dist/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/node_modules/next/dist/esm/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/node_modules/next/dist/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
+      "id": "(app-client)/./node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/globals.css": {
+      "id": "(app-client)/./src/app/globals.css",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/AS.svg": {
+      "id": "(app-client)/./src/app/cards/AS.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/KS.svg": {
+      "id": "(app-client)/./src/app/cards/KS.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/QS.svg": {
+      "id": "(app-client)/./src/app/cards/QS.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/JS.svg": {
+      "id": "(app-client)/./src/app/cards/JS.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/TenS.svg": {
+      "id": "(app-client)/./src/app/cards/TenS.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/NineS.svg": {
+      "id": "(app-client)/./src/app/cards/NineS.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/EightS.svg": {
+      "id": "(app-client)/./src/app/cards/EightS.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/SevenS.svg": {
+      "id": "(app-client)/./src/app/cards/SevenS.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/SixS.svg": {
+      "id": "(app-client)/./src/app/cards/SixS.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/FiveS.svg": {
+      "id": "(app-client)/./src/app/cards/FiveS.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/FourS.svg": {
+      "id": "(app-client)/./src/app/cards/FourS.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/ThreeS.svg": {
+      "id": "(app-client)/./src/app/cards/ThreeS.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/TwoS.svg": {
+      "id": "(app-client)/./src/app/cards/TwoS.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/AH.svg": {
+      "id": "(app-client)/./src/app/cards/AH.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/KH.svg": {
+      "id": "(app-client)/./src/app/cards/KH.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/QH.svg": {
+      "id": "(app-client)/./src/app/cards/QH.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/JH.svg": {
+      "id": "(app-client)/./src/app/cards/JH.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/TenH.svg": {
+      "id": "(app-client)/./src/app/cards/TenH.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/NineH.svg": {
+      "id": "(app-client)/./src/app/cards/NineH.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/EightH.svg": {
+      "id": "(app-client)/./src/app/cards/EightH.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/SevenH.svg": {
+      "id": "(app-client)/./src/app/cards/SevenH.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/SixH.svg": {
+      "id": "(app-client)/./src/app/cards/SixH.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/FiveH.svg": {
+      "id": "(app-client)/./src/app/cards/FiveH.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/FourH.svg": {
+      "id": "(app-client)/./src/app/cards/FourH.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/ThreeH.svg": {
+      "id": "(app-client)/./src/app/cards/ThreeH.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/TwoH.svg": {
+      "id": "(app-client)/./src/app/cards/TwoH.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/AD.svg": {
+      "id": "(app-client)/./src/app/cards/AD.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/KD.svg": {
+      "id": "(app-client)/./src/app/cards/KD.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/QD.svg": {
+      "id": "(app-client)/./src/app/cards/QD.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/JD.svg": {
+      "id": "(app-client)/./src/app/cards/JD.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/TenD.svg": {
+      "id": "(app-client)/./src/app/cards/TenD.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/NineD.svg": {
+      "id": "(app-client)/./src/app/cards/NineD.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/EightD.svg": {
+      "id": "(app-client)/./src/app/cards/EightD.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/SevenD.svg": {
+      "id": "(app-client)/./src/app/cards/SevenD.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/SixD.svg": {
+      "id": "(app-client)/./src/app/cards/SixD.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/FiveD.svg": {
+      "id": "(app-client)/./src/app/cards/FiveD.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/FourD.svg": {
+      "id": "(app-client)/./src/app/cards/FourD.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/ThreeD.svg": {
+      "id": "(app-client)/./src/app/cards/ThreeD.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/TwoD.svg": {
+      "id": "(app-client)/./src/app/cards/TwoD.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/AC.svg": {
+      "id": "(app-client)/./src/app/cards/AC.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/KC.svg": {
+      "id": "(app-client)/./src/app/cards/KC.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/QC.svg": {
+      "id": "(app-client)/./src/app/cards/QC.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/JC.svg": {
+      "id": "(app-client)/./src/app/cards/JC.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/TenC.svg": {
+      "id": "(app-client)/./src/app/cards/TenC.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/NineC.svg": {
+      "id": "(app-client)/./src/app/cards/NineC.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/EightC.svg": {
+      "id": "(app-client)/./src/app/cards/EightC.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/SevenC.svg": {
+      "id": "(app-client)/./src/app/cards/SevenC.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/SixC.svg": {
+      "id": "(app-client)/./src/app/cards/SixC.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/FiveC.svg": {
+      "id": "(app-client)/./src/app/cards/FiveC.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/FourC.svg": {
+      "id": "(app-client)/./src/app/cards/FourC.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/ThreeC.svg": {
+      "id": "(app-client)/./src/app/cards/ThreeC.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/cards/TwoC.svg": {
+      "id": "(app-client)/./src/app/cards/TwoC.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    }
+  },
+  "entryCSSFiles": {
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/layout": [
+      "static/css/app/layout.css"
+    ],
+    "/Users/braxtongoss/Desktop/portfolio/13-game/frontend/src/app/page": []
+  }
+}
